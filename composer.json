@@ -18,12 +18,9 @@
     ],
     "require": {
         "php": "^5.5.9 || ^7.0",
-        "ajgl/breakpoint-twig-extension": "^0.3.0",
-        "aptoma/twig-markdown": "^2.0",
         "asm89/twig-cache-extension": "^1.0",
         "cakephp/cakephp": "^3.2",
-        "jasny/twig-extensions": "^1.0",
-        "twig/twig": "^1.18"
+        "twig/twig": "^2.0"
     },
     "require-dev": {
         "cakephp/bake": "^1.2.2",
@@ -48,7 +45,7 @@
     "config": {
         "sort-packages": true,
         "platform": {
-            "php": "5.5.9"
+            "php": "7.0"
         }
     }
 }
