@@ -169,12 +169,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "d3daecdde3cf20f28ba94e1757a47a0397b796be"
+                "reference": "b2bfddb1229868b4d0c1b925f7f665e304ebfdca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/d3daecdde3cf20f28ba94e1757a47a0397b796be",
-                "reference": "d3daecdde3cf20f28ba94e1757a47a0397b796be",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/b2bfddb1229868b4d0c1b925f7f665e304ebfdca",
+                "reference": "b2bfddb1229868b4d0c1b925f7f665e304ebfdca",
                 "shasum": ""
             },
             "require": {
@@ -252,7 +252,7 @@
                 "rapid-development",
                 "validation"
             ],
-            "time": "2019-02-14T04:17:47+00:00"
+            "time": "2019-02-17T23:46:12+00:00"
         },
         {
             "name": "cakephp/chronos",
@@ -1650,16 +1650,16 @@
         },
         {
             "name": "friendsofphp/php-cs-fixer",
-            "version": "v2.14.1",
+            "version": "v2.14.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfPHP/PHP-CS-Fixer.git",
-                "reference": "2e82abd1322897eb8aacb861e5ff551af3888349"
+                "reference": "ff401e58261ffc5934a58f795b3f95b355e276cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfPHP/PHP-CS-Fixer/zipball/2e82abd1322897eb8aacb861e5ff551af3888349",
-                "reference": "2e82abd1322897eb8aacb861e5ff551af3888349",
+                "url": "https://api.github.com/repos/FriendsOfPHP/PHP-CS-Fixer/zipball/ff401e58261ffc5934a58f795b3f95b355e276cb",
+                "reference": "ff401e58261ffc5934a58f795b3f95b355e276cb",
                 "shasum": ""
             },
             "require": {
@@ -1679,9 +1679,6 @@
                 "symfony/polyfill-php72": "^1.4",
                 "symfony/process": "^3.0 || ^4.0",
                 "symfony/stopwatch": "^3.0 || ^4.0"
-            },
-            "conflict": {
-                "hhvm": "*"
             },
             "require-dev": {
                 "johnkary/phpunit-speedtrap": "^1.1 || ^2.0 || ^3.0",
@@ -1737,7 +1734,7 @@
                 }
             ],
             "description": "A tool to automatically fix PHP code style",
-            "time": "2019-02-10T22:52:33+00:00"
+            "time": "2019-02-17T17:44:13+00:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
